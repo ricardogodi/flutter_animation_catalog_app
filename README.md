@@ -8,8 +8,7 @@ The Flutter Animation Catalog App is a mobile application that simulates Android
 - **Explicit Animations:** Includes explicit animations with controls to pause, resume, and reverse, such as the Bouncing Ball and Rotating Cube animations.
 - **Implicit Animations:** Features implicit animations like Color Fade and Expanding Circle, which respond to user interactions.
 - **User Interaction:** Highlights the selected animation in the list and provides a responsive experience with smooth transitions.
-- **State Management:** Manages state dynamically, adjusting layout and content based on user selections.
-
+- 
 ## Files Included
 
 ### `animation_display_widget.dart`
