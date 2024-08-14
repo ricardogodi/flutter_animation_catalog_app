@@ -11,6 +11,10 @@ The Flutter Animation Catalog App is a mobile application that simulates Android
 - 
 ## Files Included
 
+## Important Note
+**Note:** The full Android Studio project is not included due to size constraints. You must use the provided files and import the code into your own Flutter project to run the app.
+
+
 ### `animation_display_widget.dart`
 Defines the `AnimationDisplayWidget` class responsible for displaying the selected animation. It uses a switch-case structure to render the appropriate animation widget based on the user's choice.
 
@@ -67,5 +71,3 @@ Implements the `SpinningWheelAnimation` widget, an implicit animation that simul
 - **Description:** Illustrates the Color Fade Animation, where the background transitions smoothly between various colors.
 - ![Color Fade](./color_fade.png)
 
-## Important Note
-**Note:** The full Android Studio project is not included due to size constraints. You must use the provided files and import the code into your own Flutter project to run the app.
