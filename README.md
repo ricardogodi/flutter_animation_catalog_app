@@ -11,7 +11,6 @@ The Flutter Animation Catalog App is a mobile application that simulates Android
 - 
 ## Files Included
 
-## Important Note
 **Note:** The full Android Studio project is not included due to size constraints. You must use the provided files and import the code into your own Flutter project to run the app.
 
 
