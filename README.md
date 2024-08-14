@@ -37,7 +37,6 @@ Contains the `RotatingCubeAnimation` widget, an explicit 3D animation where a cu
 
 ### `spinning_wheel_animation.dart`
 Implements the `SpinningWheelAnimation` widget, an implicit animation that simulates a spinning wheel. The animation uses a custom painter to draw the wheel and `AnimationController` to control the rotation, with options to pause, resume, and reverse the spin.
-
 ## Screenshots
 
 ### Main Menu
